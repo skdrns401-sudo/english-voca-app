@@ -256,3 +256,4 @@ export default function QuizModal({ isOpen, onClose, words = [] }) {
     </div>
   );
 }
+

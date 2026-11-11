@@ -183,3 +183,4 @@ export default function WordList({ words, loading, onAddWord, onEditWord }) {
     </div>
   );
 }
+

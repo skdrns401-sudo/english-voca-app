@@ -196,3 +196,4 @@ export default function WordCard({ word, onEdit }) {
     </div>
   );
 }
+

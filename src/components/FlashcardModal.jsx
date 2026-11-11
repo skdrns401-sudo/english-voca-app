@@ -213,3 +213,4 @@ export default function FlashcardModal({ isOpen, onClose, words = [] }) {
     </div>
   );
 }
+

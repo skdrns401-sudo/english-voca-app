@@ -302,3 +302,4 @@ export default function WordFormModal({ isOpen, onClose, editingWord = null }) {
     </div>
   );
 }
+

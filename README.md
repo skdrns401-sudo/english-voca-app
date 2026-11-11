@@ -151,3 +151,4 @@ npx vercel
 > ⚠️ **중요 (Firebase 승인된 도메인 등록)**:
 > Vercel 배포 후 발급받은 도메인(예: `englishtest-voca.vercel.app`)을
 > Firebase Console > **Authentication** > **Settings** > **Authorized domains (승인된 도메인)**에 추가해야 Google 로그인이 정상 작동합니다.
+

@@ -266,3 +266,4 @@ export async function addSampleWords(userId) {
 
   await batch.commit();
 }
+
